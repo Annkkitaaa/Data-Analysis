@@ -9,19 +9,16 @@ Tools Used: Python, Pandas, Matplotlib, Seaborn.
 Data Source: The dataset used for this project can be found in the data/ directory.
 
 
-
 #### Project Contents
 The project is organized as follows:
 
 EDA project-1/diwali.csv: This directory contains the dataset used for the analysis.
 
-: This directory contains Jupyter notebooks with the code used for the EDA. The notebooks are organized as follows:
+EDA project-1/DIWALI SALES ANALYSIS.ipynb: This directory contains Jupyter notebooks with the code used for the EDA. 
+The notebook contains the following:
+* Data loading, cleaning, and preprocessing.
+* Exploratory data analysis and visualizations.
+* Final insights, recommendations, and conclusions.
 
-01_Data_Preparation.ipynb: Data loading, cleaning, and preprocessing.
-02_Sales_Analysis.ipynb: Exploratory data analysis and visualizations.
-03_Insights_and_Recommendations.ipynb: Final insights, recommendations, and conclusions.
-reports/: This directory contains a summary report of the EDA findings. The report includes the key insights and recommendations for business decisions.
-
-images/: This directory contains images and plots generated during the analysis.
 
 README.md: You are currently reading the README file that provides an overview of the project.
