@@ -13,7 +13,7 @@ Data Source: The dataset used for this project can be found in the data/ directo
 #### Project Contents
 The project is organized as follows:
 
-Data: This directory contains the dataset used for the analysis. EDA project-1/diwali.csv
+Data: This directory contains the dataset used for the analysis.
 
 notebooks/: This directory contains Jupyter notebooks with the code used for the EDA. The notebooks are organized as follows:
 
